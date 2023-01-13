@@ -7,7 +7,8 @@ text,label
 This is an example,1
 This is not an example,0
 ```
+## SVM
 
-## Model
+## RoBERTa
 The RoBERTa model we used is implemented by [simpletransformers](https://simpletransformers.ai/).
-Mode details can be found in `Roberta-simpletransformers.ipynb`
+Mode details can be found in `Roberta/Roberta-simpletransformers.ipynb`
